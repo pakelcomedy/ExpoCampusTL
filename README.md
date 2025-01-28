@@ -7,7 +7,7 @@ ExpoCampus/
 │   ├── about.html               # Halaman tentang kampus
 │   ├── fakultas.html            # Daftar fakultas/jurusan
 │   ├── fakultas-detail.html     # Detail fakultas/jurusan
-│   ├── kontak.html              # Halaman kontak kampus
+│   └── kontak.html              # Halaman kontak kampus
 │
 ├── assets/                      # Folder untuk menyimpan aset
 │   ├── css/                     # Folder untuk file CSS
@@ -23,17 +23,12 @@ ExpoCampus/
 │   │   ├── kontak.js            # Script untuk halaman kontak
 │   │   └── about.js             # Script untuk halaman about
 │   │
-│   ├── img/                     # Folder untuk gambar
-│   │   ├── logo.png             # Logo kampus
-│   │   ├── background.jpg       # Gambar latar belakang
-│   │   └── fakultas/            # Sub-folder untuk gambar terkait fakultas
-│   │       ├── teknik.jpg
-│   │       ├── kesehatan.jpg
-│   │       └── ekonomi.jpg
-│   │
-│   ├── fonts/                   # Folder untuk font kustom
-│   │   ├── roboto.ttf
-│   │   └── open-sans.ttf
-│
+│   └── img/                     # Folder untuk gambar
+│       ├── logo.png             # Logo kampus
+│       ├── background.jpg       # Gambar latar belakang
+│       └── fakultas/            # Sub-folder untuk gambar terkait fakultas
+│           ├── teknik.jpg
+│           ├── kesehatan.jpg
+│           └── ekonomi.jpg
 └── README.md                    # Dokumentasi proyek
 ```
